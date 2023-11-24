@@ -1,4 +1,4 @@
-Javascript Terrain Generator
+Javascript Terrain Generator (original loktar00 Readme)
 ====================
 
 Generates heightmaps, and shadow maps using JS and canvas.
