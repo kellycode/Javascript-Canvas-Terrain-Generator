@@ -5,7 +5,7 @@ window.onload = terrainGeneration;
 var mapCanvas = document.getElementById('canvas'),
     imgSave = document.getElementById('imgSave'),
     settings = {
-        roughness : 8,
+        roughness : 1,
         mapDimension : 1024,
         unitSize : 1,
         mapType : 2,
